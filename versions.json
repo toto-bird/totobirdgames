@@ -1,5 +1,8 @@
 {
   "dungeoncrawler": {
     "version": "r01"
+  },
+  "minigamelobby": {
+    "version": "a00"
   }
 }
