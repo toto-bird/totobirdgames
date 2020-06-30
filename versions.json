@@ -3,6 +3,9 @@
     "version": "r01"
   },
   "minigamelobby": {
-    "version": "a00"
+    "version": "a00",
+    "broken": [
+      
+    ]
   }
 }
